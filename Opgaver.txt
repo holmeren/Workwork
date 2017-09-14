@@ -1,0 +1,25 @@
+Få styr på IsLoading - problemet ligger i GrouplistHelper - ok
+Få styr på genskabelse af RegTreatment - ok
+Få styr på Pages - problemet opstår ved Decorator Model - ok
+Få styr på Stackoverflow - når man laver treatmentlogic i regTreatmentLogic
+
+Tilføj til DTO:
+IsAll
+IsTreatable
+
+Tilføj evt. Stable og Section og sti, eller Uses Sections and sties
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+Fix Departure
+Fix oprettelse 
+Slet alle treatments/regitreatment på en død so
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+
+ved Moved departure vil den returnere nogle Treatments som regTreatments - ok
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+Få styr på hvor regiTreatment skal returnere hvor og hvornår,
+Evt. lav en ny converter, så man ikke caster fra Treatment til RegisterTreatment ( subTreatments)
+Spørg om Datamangers in logic.

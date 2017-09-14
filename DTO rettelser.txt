@@ -1,0 +1,55 @@
+APPfarmlog
+
+RegDepartLogic linje 215 - Hvorfor if else?
+
+RegTreatLogic linje 149 - måske redundant?
+
+linje 242 - ændre navn så det giver mening
+
+TreatmentLogic linje 57 - Hvad fanden sker der her ?
+
+RegTrePub - Slet overflødig kode - ok?
+
+TreatmentPub linje 25 - flyt evt. ned til andre events
+
+RegTreatSync line 200 - check om det virker
+
+RegTreatDataMan line 213 - hvorfor udkommenteret
+
+RegTreatmentServiceManager linje 38 - grund til specifik return?
+
+EntranceViewModel linje 212 - var det en test?
+
+TreatmentDetailViewModel - få fjernet RegTreatment kode - done
+
+TreatmentStableOverviewViewModel - få fjernet RegTreatment kode
+
+Få styr på om events går op igennem appen som de skal
+
+Treatments og RegTreaments... kan ikke finde alt lokalt
+
+Evt. lav en ny converter, så man ikke caster fra Treatment til RegisterTreatment ( subTreatments)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+WEBfarmlog
+
+RegTreatController - find ud af det med new treatmentLogic
+
+RegTreatment5Controller - Hovrnår skal der returneres RegTreat og treat
+
+RegTreatLogic linje 43 - skal RegistrationError være med?
+
+Fjern overflødig kode - done
+
+Undersøg grunden til ToList()?
+
+
+FilteredSearch with treatmentDtos
+
+
+- - - - - - - - - - - - - - - - - - -  - -- - - - -  --  -----------------------
+
+Få slettet ikke behandlede treatments
+
+Få slettet overflødig regTreatment kode

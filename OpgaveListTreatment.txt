@@ -1,0 +1,19 @@
+Få styr på stable og hvad den skal vise
+SoManagement - IsTreated undefined
+
+TreatmentLogic  ToDTO method, location
+
+find ud af hvorfor RegiTreatment ikke skifter location
+
+Død gris, deletion af treatments DeleteAllWithSameRegTreatment - DeleteNotTreated
+
+ButcherDateQuarantinedAsync
+
+Delete RegTreatment locally when done, maybe online when created.
+
+Find ud af om RegTreatment skal sync, eller bare slettes når lavet på backend
+
+Evt. hente en IsHiddin = true ud, for ikke at få regTreatment på appen, men stadig updatere location
+
+
+
