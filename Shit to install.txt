@@ -1,0 +1,21 @@
+VS 2017
+mongodb
+robomongo
+node.js
+slack
+Android studio 
+Xamarin
+Git bash
+Git extension
+Java
+Bower
+Web Essentials
+Web compiler
+Sonos
+Chrome
+VS Code
+Notepad++
+WinRAR
+(JDK)
+
+Ninite
